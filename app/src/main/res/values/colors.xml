@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E3E3E3</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="orange">#F7722B</color>
+    <color name="hourbg">#E3E3E3</color>
+    <color name="hourcontentbg">#D4D4D4</color>
+    <color name="hourtext">#A6A6A6</color>
+    <color name="selecteditem">#1F6BB3</color>
+    <color name="eventbg">#7FB546</color>
+    <color name="displayeventbg">#AC5330</color>
+    <color name="popupbg">#E8E8E8</color>
+
+
+</resources>

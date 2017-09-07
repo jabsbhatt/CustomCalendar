@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="wht">What</string>
+    <string name="evntname">Event name</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="date">Date</string>
+    <string name="addEvent">Add Event</string>
+    <string name="fromTime">From Time</string>
+    <string name="toTime">To Time</string>
+    <string name="where">Where</string>
+    <string name="eventlocation">Event Location</string>
+    <string name="desctiption">Description</string>
+    <string name="eventdescription">Event Description</string>
+    <string name="addevent">Submit event</string>
+    <string name="update">DONE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="newevent">New event</string>
+    <string name="ok">OK</string>
+    <string name="reminder">Reminder</string>
+    <string name="reminderes">REMINDERS</string>
+    <string name="addreminder">Add reminder</string>
+    <string name="dateh">Date:-</string>
+    <string name="timeh">Time:-</string>
+    <string name="locationh">Location:-</string>
+    <string name="descriptionh">Description:-</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="snooz">Snooz</string>
+    <string name="eventAdded">Event Added Successfully</string>
+    <string name="noreminder">No Reminder</string>
+    <string name="validationname">Enter Event Name</string>
+    <string name="validationfromtime">Select Time</string>
+    <string name="validationtodate">Select date</string>
+    <string name="validationtotime">Select time</string>
+    <string name="validationlocation">Please enter event location</string>
+    <string name="validationdecsription">Please enter event Description</string>
+    <string name="deleted">Deleted</string>
+    <string name="selectdate">Please select the date</string>
+    <string name="doubleclickexit">Please click again to exit</string>
+    <string name="eventupdated">Event updated</string>
+
+
+
+</resources>
